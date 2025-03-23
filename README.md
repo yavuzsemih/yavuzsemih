@@ -1,6 +1,3 @@
-# 💫 About Me:
-Welcome to my GitHub profile! I'm a passionate Security Professional with a strong background in securing cloud infrastructure and applications. I'm dedicated to enhancing cloud security and mitigating risks in the ever-evolving world of technology.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/real-semihyavuz) 
